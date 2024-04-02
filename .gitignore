@@ -1,0 +1,6 @@
+/video-impainting/
+/ProPainter/
+/paragliding/
+/paragliding_mask/
+*.pth
+*.pt
