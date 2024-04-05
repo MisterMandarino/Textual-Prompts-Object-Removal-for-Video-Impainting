@@ -4,7 +4,7 @@ Project for the 'Advanced Computer Vision' course of the Master's Degree in Arti
 
 ## Description
 
-In this (project)[ADV_CV_Propainter.pdf] we proposed an efficient way to automate the generation of video sequence masks using state of the art pre-trained models.
+In this [project](ADV_CV_Propainter.pdf) we proposed an efficient way to automate the generation of video sequence masks using state of the art pre-trained models.
 The cascade of models will achieve textual-prompts video impainting.
 
 #### You Only Look Once (YOLO)

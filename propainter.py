@@ -140,7 +140,7 @@ PROPAINTER_EXE = os.path.join(HOME, 'ProPainter', 'inference_propainter.py')
 if HIGH:
     subprocess.run(["python", PROPAINTER_EXE, "--video", DIRECTORY_PATH, "--mask", MASK_PATH, "--height", str(320), "--width", str(576), "--fp16"])
 else:
-    subprocess.run(["python", PROPAINTER_EXE, "--video", DIRECTORY_PATH, "--mask"])
+    subprocess.run(["python", PROPAINTER_EXE, "--video", DIRECTORY_PATH, "--mask", MASK_PATH])
 
 
 ## Define the video result path
